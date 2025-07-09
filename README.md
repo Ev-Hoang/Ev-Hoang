@@ -4,6 +4,13 @@ Also a gamer at heart.
 
 ---
 ## About me 
+I'm a third-year Electronics & Telecommunications student at VNU-UET.  
+
+Currently interning at FPT Telecom, focusing on Python backend (FastAPI), CI/CD with GitLab, and working with PostgreSQL, Redis, and MongoDB.  
+
+I also work on embedded projects using STM32, real-time control, and hardware-level programming.  
+
+In my free time, I code games and practice algorithms on LeetCode to challenge myself and improve problem-solving skills.
 
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hduckien?theme=dark&font=Montserrat&ext=heatmap)
