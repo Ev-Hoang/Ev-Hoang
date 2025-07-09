@@ -8,8 +8,10 @@ Also a gamer at heart.
 - Currently interning at FPT Telecom.  
 - I also working on embedded projects (STM32).  
 
-## Fun fact: Necrom's Handle have a lower drop rate than any Fish in the Necrom's Family 
+### Fun fact: Necrom's Handle have a lower drop rate than any Fish in the Necrom's Family 
+
 ---
+
 ##🔗 [My LeetCode Profile](https://leetcode.com/u/hduckien/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hduckien?theme=dark&font=Montserrat&ext=heatmap)
