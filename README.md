@@ -12,7 +12,7 @@ Also a gamer at heart.
 
 ---
 
-##🔗 [My LeetCode Profile](https://leetcode.com/u/hduckien/)
+## 🔗 [My LeetCode Profile](https://leetcode.com/u/hduckien/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hduckien?theme=dark&font=Montserrat&ext=heatmap)
 ---
