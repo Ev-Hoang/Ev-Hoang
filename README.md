@@ -1,4 +1,9 @@
 # <img src="assets/gura_emote.png" width="30" style="vertical-align:middle;"/> Ev Hoàng!
+A curious and persistent learner who enjoys solving algorithms that stretch their mind and patience.
+Also a gamer at heart.
+
+---
+## About me 
 
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hduckien?theme=dark&font=Montserrat&ext=heatmap)
