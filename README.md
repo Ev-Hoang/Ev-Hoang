@@ -1,5 +1,7 @@
 # <img src="assets/gura_emote.png" width="30" style="vertical-align:middle;"/> Ev Hoàng!
 
+
+🔗 [LeetCode Profile](https://leetcode.com/u/hduckien/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hduckien?theme=dark&font=Montserrat&ext=heatmap)
 <!--
 **Ev-Hoang/Ev-Hoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
