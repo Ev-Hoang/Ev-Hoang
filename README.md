@@ -1,4 +1,4 @@
-# Ev Hoàng! <img src="assets/gura_emote.png" width="50" style="vertical-align:middle;"/>
+# Ev Hoàng! <img src="assets/gura_emote.png" width="30" style="vertical-align:middle;"/>
 
 <!--
 **Ev-Hoang/Ev-Hoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
