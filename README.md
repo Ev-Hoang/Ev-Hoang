@@ -8,7 +8,7 @@ Also a gamer at heart.
 - Currently interning at FPT Telecom.  
 - I also working on embedded projects (STM32).  
 
-### Fun fact: Necrom's Handle have a lower drop rate than any Fish in the Necrom's Family <img src="assets/gura_bonk.webp" width="20" style="vertical-align:middle;"/>
+### Fun fact: Necron's Handle have a lower drop rate than any Fish in the Necron's Family <img src="assets/gura_bonk.webp" width="20" style="vertical-align:middle;"/>
 
 ---
 
