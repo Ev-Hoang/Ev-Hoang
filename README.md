@@ -4,9 +4,9 @@ Also a gamer at heart.
 
 ---
 ## About me 
-- I'm a third-year [Electronics & Telecommunications](https://uet.vnu.edu.vn/en/faculty-electronics-telecommunications-fet/) student at [VNU-UET](https://uet.vnu.edu.vn/).  
-- Currently interning at FPT Telecom.  
-- I also working on embedded projects (STM32).  
+- I'm a fourth-year [Electronics & Telecommunications](https://uet.vnu.edu.vn/en/faculty-electronics-telecommunications-fet/) student at [VNU-UET](https://uet.vnu.edu.vn/).  
+- Interned at FPT Telecom (Summer 2025).  
+- More of me coming soon :).  
 
 ### Fun fact: Necron's Handle have a lower drop rate than any Fish in the Necron's Family <img src="assets/gura_bonk.webp" width="20" style="vertical-align:middle;"/>
 
